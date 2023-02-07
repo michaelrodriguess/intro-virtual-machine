@@ -1,4 +1,4 @@
-# 42-RIO-Born_To_Be_Root
+<h1 align="center">42-RIO-Born_To_Be_Root</h1>
 
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_Maravilhoso_mundo_da_Virtualizao__1"></a><em>Maravilhoso mundo da Virtualização</em></h2>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Nesse projeto eu tive que criar a minha primeira máquina virtual utilizando o VirtualBox sob instruções específicas. Depois, no final deste projeto, será possível criar o meu próprio sistema operacional aplicando regras estritas.</p>
